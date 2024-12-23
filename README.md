@@ -4,7 +4,7 @@ This repository contains materials, code for tasks & projects and also links to 
 
 | Organisation   | Course                     | Link                                           | Description                                                                                           | Certificate |
 |----------------|----------------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------|
-| Tech Academy   | Intro to Python            | [Intro to Python](https://example.com/python) | Get started with Python programming—covering fundamentals, data structures, and basic problem-solving | Yes        |
+| Karpov.Courses   | Data Analytics            | [Data Analytics]([https://example.com/python](https://karpov.courses/analytics)) | Get started with Python programming—covering fundamentals, data structures, and basic problem-solving | Yes        |
 | DataWorks      | Data Science Foundations    | [Data Science](https://example.com/datasci)   | An overview of data exploration, visualization, and predictive modeling techniques                    | No         |
 | InnovateX      | Machine Learning Essentials | [ML Essentials](https://example.com/ML)       | Deep dive into regression, classification, and clustering algorithms using popular ML libraries       | Yes        |
 | CodeFirst      | Web Development 101         | [Web Dev 101](https://example.com/webdev)     | Learn HTML, CSS, and JavaScript fundamentals for building modern websites                             | No         |
