@@ -12,4 +12,4 @@ This repository contains materials, code for tasks & projects and also links to 
 | Stepik  | [Statistics 2](https://stepik.org/course/524/info)      | Dive into user research, wireframing, and prototyping to create user-friendly interfaces              | In Progress        |
 | Stepik    | [Statistics 3](https://stepik.org/course/2152/info)   | Master pivot tables, dashboards, and data analytics tools to make data-driven decisions               | In Progress         |
 | HSE    | [Machine Learning](https://elearning.hse.ru/moocs/machine-learning-specialization/)   | Master pivot tables, dashboards, and data analytics tools to make data-driven decisions               | In Progress         |
-| Stepik    | [Intro to Data Science & Machine Learning](https://stepik.org/course/4852/info)   | Master pivot tables, dashboards, and data analytics tools to make data-driven decisions               | In Progress         |
+| Stepik    | [Introduction to Data Science & Machine Learning](https://stepik.org/course/4852/info)   | Master pivot tables, dashboards, and data analytics tools to make data-driven decisions               | In Progress         |
